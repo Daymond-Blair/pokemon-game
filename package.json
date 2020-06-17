@@ -65,6 +65,7 @@
     "gulp-pug": "^4.0.1",
     "svelte": "^3.4.3",
     "svelte-loader": "^2.13.4",
-    "webpack-dev-server": "^3.1.14"
+    "webpack-dev-server": "^3.1.14",
+    "yarn": "^1.22.4"
   }
 }
